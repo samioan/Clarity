@@ -11,9 +11,5 @@ The exercises are based on the Mini-Mental State Exam.
 
 The application can be uploaded online or embedded on a website.
 
-Live demo: https://clarityapp.netlify.com/
-
-Executable version for Windows(x64): https://www.dropbox.com/s/5dtzpsd1mm89sub/Clarity.zip?dl=0
-
 Created with Construct 2.
 
